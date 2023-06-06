@@ -1,7 +1,4 @@
 <html>
-<head>
-<title>Python Project Folder</title>
-</head>
 <body>
 <h1>Python Project Folder</h1>
 <p>This repository contains a collection of Python projects developed by <a href="https://github.com/aligabih">Hussein Aligabi</a>. Each project serves a different purpose and showcases the developer's skills and knowledge in Python programming.</p>
